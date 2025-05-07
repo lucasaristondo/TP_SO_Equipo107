@@ -1,1 +1,5 @@
 datos.txt
+
+Lorenzo Braunstein
+192.168.1.101 
+hora: 11:26 AM
